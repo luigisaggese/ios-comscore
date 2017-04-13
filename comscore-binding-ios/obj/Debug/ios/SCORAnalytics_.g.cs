@@ -1,0 +1,62 @@
+//
+// Auto-generated from generator.cs, do not edit
+//
+// We keep references to objects, so warning 414 is expected
+
+#pragma warning disable 414
+
+using System;
+using System.Drawing;
+using System.Diagnostics;
+using System.ComponentModel;
+using System.Threading.Tasks;
+using System.Runtime.InteropServices;
+using System.Runtime.CompilerServices;
+using UIKit;
+using GLKit;
+using Metal;
+using MapKit;
+using ModelIO;
+using SceneKit;
+using Security;
+using AudioUnit;
+using CoreVideo;
+using CoreMedia;
+using QuickLook;
+using Foundation;
+using CoreMotion;
+using ObjCRuntime;
+using AddressBook;
+using CoreGraphics;
+using CoreLocation;
+using AVFoundation;
+using NewsstandKit;
+using CoreAnimation;
+using CoreFoundation;
+
+public unsafe static partial class SCORAnalytics_  {
+	
+	[CompilerGenerated]
+	static readonly IntPtr class_ptr = Class.GetHandle ("global::SCORAnalytics");
+	
+	[CompilerGenerated]
+	public static global::SCORVCE SharedVCEInstance {
+		[Export ("sharedVCEInstance")]
+		get {
+			global::SCORVCE ret;
+			ret =  Runtime.GetNSObject<global::SCORVCE> (global::ApiDefinition.Messaging.IntPtr_objc_msgSend (class_ptr, Selector.GetHandle ("sharedVCEInstance")));
+			return ret;
+		}
+		
+	}
+	
+	[CompilerGenerated]
+	public static string VceVersion {
+		[Export ("vceVersion")]
+		get {
+			return NSString.FromHandle (global::ApiDefinition.Messaging.IntPtr_objc_msgSend (class_ptr, Selector.GetHandle ("vceVersion")));
+		}
+		
+	}
+	
+} /* class SCORAnalytics_ */

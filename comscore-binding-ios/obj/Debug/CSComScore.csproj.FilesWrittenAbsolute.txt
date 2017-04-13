@@ -3,3 +3,8 @@
 /Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/bin/Debug/CSComScore.iOS.dll
 /Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/obj/Debug/CSComScore.iOS.dll
 /Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/obj/Debug/CSComScore.iOS.dll.mdb
+/Users/luigi.saggese/Projects/ios-comscore/comscore-binding-ios/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/luigi.saggese/Projects/ios-comscore/comscore-binding-ios/obj/Debug/CSComScore.iOS.dll
+/Users/luigi.saggese/Projects/ios-comscore/comscore-binding-ios/obj/Debug/CSComScore.iOS.dll.mdb
+/Users/luigi.saggese/Projects/ios-comscore/comscore-binding-ios/bin/Debug/CSComScore.iOS.dll.mdb
+/Users/luigi.saggese/Projects/ios-comscore/comscore-binding-ios/bin/Debug/CSComScore.iOS.dll
